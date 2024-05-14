@@ -13,6 +13,8 @@ libfreeglut.a <-freeglut 폴더에 있음 libglu32.a, libopengl32.a <- Devcpp �
 
 ## 주전자 실행 화면
 ![Uploading tea.gif…]()
+
+
 주전자가 X축과 Y축으로 회전합니다.
 
 ### 실행 코드
