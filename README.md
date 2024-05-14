@@ -16,7 +16,8 @@ libfreeglut.a <-freeglut 폴더에 있음 libglu32.a, libopengl32.a <- Devcpp �
 5. dll 파일을 복사한다. 64비트 DII 파일을 c:\windows\system32에 복사한다.
 
 ## 주전자 실행 화면
-https://github.com/woojinchoi02/Graphics-Teapot/issues/4#issue-2295010463
+![tea](https://github.com/woojinchoi02/Graphics-Teapot/assets/162526228/0eb25715-4a46-48c8-b2f9-a417e4f21039)
+
 
 주전자가 X축과 Y축으로 회전합니다.
 
